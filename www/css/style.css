@@ -1,0 +1,67 @@
+/* Empty. Add your own CSS if you like */
+
+.color
+{
+	color: white;
+}
+
+.svg
+{
+	background-image: url("../img/telephone.svg") no-repeat center;
+ 	background-size: contain;
+}
+
+.padding
+{
+	padding: 0px;
+}
+
+.margintop
+{
+	margin-top: 20%;
+}
+
+.btncomprar
+{
+	margin-left: 4px;
+}
+.margin
+{
+	margin: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+.texto-centro
+{
+	text-align: center;
+}
+
+.slide1 {
+  background: url("../img/coffe.jpg") no-repeat center center fixed;
+  background-size: cover; }
+
+.slide2 {
+  background: url("../img/Frame2Tutorial.jpg") no-repeat center center fixed;
+  background-size: cover; }
+
+.slide3 {
+  background: url("../img/Frame3Tutorial.jpg") no-repeat center center fixed;
+  background-size: cover; }
+
+.slider {
+  height: 100%; }
+
+.slider-slide
+ {
+  background-color: #fff;
+  text-align: center;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+ }
+
+ .desaparecer
+ {
+ 	-webkit-tap-highlight-color: rgba(0,0,0,0);
+ }
